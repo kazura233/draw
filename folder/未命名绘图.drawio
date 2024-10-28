@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="3TrvQY6Xxq5SfQNlH8lR">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-1" target="8trrsIFSE2Cj8hKRHVmf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-7" value="需要先绑定邮箱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-6">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="43" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-1" target="8trrsIFSE2Cj8hKRHVmf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-11" value="验证安全邮箱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-9">
+          <mxGeometry x="0.3381" y="-3" relative="1" as="geometry">
+            <mxPoint x="39" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-1" target="8trrsIFSE2Cj8hKRHVmf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-17" value="验证安全邮箱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-16">
+          <mxGeometry x="0.6034" y="-2" relative="1" as="geometry">
+            <mxPoint x="27" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-1" value="谷歌注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-2" target="8trrsIFSE2Cj8hKRHVmf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-8" value="可以直接修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-5">
+          <mxGeometry x="0.4933" y="1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-2" target="8trrsIFSE2Cj8hKRHVmf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-12" value="验证邮箱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-10">
+          <mxGeometry x="0.6261" y="1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-2" target="8trrsIFSE2Cj8hKRHVmf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-15" value="可以直接修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-14">
+          <mxGeometry x="0.6349" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-2" value="邮箱注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-3" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-4" value="修改邮箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-13" value="修改谷歌绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
