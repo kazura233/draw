@@ -61,6 +61,19 @@
         <mxCell id="8trrsIFSE2Cj8hKRHVmf-3" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8trrsIFSE2Cj8hKRHVmf-4" target="8trrsIFSE2Cj8hKRHVmf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="340" />
+              <mxPoint x="280" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8trrsIFSE2Cj8hKRHVmf-19" value="绑定邮箱后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8trrsIFSE2Cj8hKRHVmf-18">
+          <mxGeometry x="0.3612" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8trrsIFSE2Cj8hKRHVmf-4" value="修改邮箱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
